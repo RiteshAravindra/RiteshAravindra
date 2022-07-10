@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
 </p>
 
+<img src="/images/web_development.gif" />
 <div align="center" size='20px'>
  <h3>
  An passionate full-stack developer with a specialization in MERN stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
