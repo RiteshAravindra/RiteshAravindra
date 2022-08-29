@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <a href= "https://github.com/RiteshAravindra?tab=repositories&q=&type=&language=bootstrap&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
 <a href= "https://github.com/RiteshAravindra?tab=repositories&q=&type=&language=html&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= "https://github.com/RiteshAravindra?tab=repositories&q=&type=&language=css&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= "https://github.com/RiteshAravindra?tab=repositories&q=&type=&language=css&sort= "> <img height="32px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= "https://github.com/RiteshAravindra/Array-operations-in-java "> <img height="32px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
 <a href= "https://github.com/RiteshAravindra?tab=repositories&q=&type=&language=css&sort= "> <img height="35px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 
   
