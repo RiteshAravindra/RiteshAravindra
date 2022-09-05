@@ -50,14 +50,14 @@ Here are some ideas to get you started:
 
   
   
-  
+ <img align="center" src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only" /> 
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshAravindra&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RiteshAravindra)
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RiteshAravindra)
 <img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
-<img align="center" src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshAravindra&layout=compact&theme=vue&hide_border=true" />
 
 
