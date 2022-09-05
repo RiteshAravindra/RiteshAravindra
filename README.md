@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RiteshAravindra)
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RiteshAravindra)
-
+<img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshAravindra&layout=compact&theme=vue&hide_border=true" />
 
 
